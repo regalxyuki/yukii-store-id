@@ -1,0 +1,7 @@
+{
+  "name": "yukii-store",
+  "type": "module",
+  "dependencies": {
+    "undici": "^6.x.x"
+  }
+}
